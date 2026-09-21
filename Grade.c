@@ -23,7 +23,7 @@ int main () {
         grade='F';
     }
     else {
-        printf("your score is to low, Work harder Next Time!\n");
+        printf("Your score is to low, Work harder Next Time!\n");
         return 1;
     }
    
