@@ -27,7 +27,7 @@ int main () {
         return 1;
     }
    
-    printf("Your grade is:%c\n",grade);
+    printf("Your grade is: %c\n",grade);
     return 0;
     
 }
